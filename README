@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=77
+
+This script generates menu entries for each include file within the actual edited C/C++ file.
+After executing it, you can enter any of the include files by selecting them via menu.
+
+The script is just quick and (hope not very) dirty written, but working (only short tests up to now)
+under GVIM 5.8, NT4.0, Novell network
+
